@@ -18,8 +18,14 @@
 
 
 
-#-- informasi  Login Mengunakan Token 
+# Login Mengunakan Token 
 
+
+
+
+# Cara Mendapakan Token Fb Nih Link Nya Bro
+
+# https://m.apkpure.com/id/get-access-token/com.proit.thaison.getaccesstokenfacebook/download?from=amp_info
 
 
 
